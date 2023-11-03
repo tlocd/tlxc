@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tlocd/tlxc/static/css/main.3a99ea49.css",
+    "main.js": "/tlocd/tlxc/static/js/main.c3526541.js",
+    "static/media/background.jpg": "/tlocd/tlxc/static/media/background.cc4b0176c695d34c43f6.jpg",
+    "index.html": "/tlocd/tlxc/index.html",
+    "main.3a99ea49.css.map": "/tlocd/tlxc/static/css/main.3a99ea49.css.map",
+    "main.c3526541.js.map": "/tlocd/tlxc/static/js/main.c3526541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a99ea49.css",
+    "static/js/main.c3526541.js"
+  ]
+}
